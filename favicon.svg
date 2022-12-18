@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Created with PainterSVG V3.92 -->
+
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:psvg="http://www.paintersvg.com/namespace.html" id="svg"  width="512" height="512" viewBox="0 0 512 512">
+<defs></defs>
+<g psvg:layer="layer1">
+<path id="path2" d=" M 262.9595,25.3721 C 142.2186,25.3721 43.4306,124.1601 43.4306,244.9009 43.4306,365.6418 142.2186,464.4298 262.9595,464.4298 383.7003,464.4298 482.4883,365.6418 482.4883,244.9009 482.4883,124.1601 383.7003,25.3721 262.9595,25.3721 Z" style="fill:#EF3D3D;fill-opacity:1;stroke:#EF3D3D;stroke-width:1;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;"/>
+<text id="text1" style="fill:#FFFFFF;fill-opacity:1;stroke:#FFFFFF;stroke-width:1;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;" transform="matrix(3.0392,0,0,3.0392,-730.1858,-480.3429)" x="256" y="257.4629" font-family="Roboto-Regular" font-size="50" font-style="normal" text-align="left">1+2=3</text></g>
+</svg>

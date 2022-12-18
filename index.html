@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en-us">
+<head>
+	<title>Calculator</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1"/>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" href="style.css"/>
+	<link rel="icon" href="favicon.svg">
+</head>
+<body>
+	<div class="main">
+		<div id="display"></div>
+		<div class="keyboard">
+			<button onclick="keyPress('1')" class="key">1</button>
+			<button onclick="keyPress('2')" class="key">2</button>
+			<button onclick="keyPress('3')" class="key">3</button>
+			<button onclick="keyPress('+')" class="key">+</button>
+			<button onclick="keyPress('4')" class="key">4</button>
+			<button onclick="keyPress('5')" class="key">5</button>
+			<button onclick="keyPress('6')" class="key">6</button>
+			<button onclick="keyPress('-')" class="key">-</button>
+			<button onclick="keyPress('7')" class="key">7</button>
+			<button onclick="keyPress('8')" class="key">8</button>
+			<button onclick="keyPress('9')" class="key">9</button>
+			<button onclick="keyPress('*')" class="key">*</button>
+			<button onclick="keyPress('(')" class="key">(</button>
+			<button onclick="keyPress('0')" class="key">0</button>
+			<button onclick="keyPress(')')" class="key">)</button>
+			<button onclick="keyPress('/')" class="key">/</button>
+			<button onclick="clearDisplay()" class="key">C</button>
+			<button onclick="backspace()" class="key">《</button>
+			<button onclick="result()" class="equal">=</button>
+		</div>
+	</div>
+	<footer>
+		<p>Calculator </p>
+		<a href="https://github.com/sra2022" target="_blank">SRA2022</a>
+	</footer>
+	<script src="calc.js"></script>
+</body>
